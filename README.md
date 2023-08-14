@@ -86,7 +86,7 @@ $ npm run dev
 
 # O servidor inciará na porta:3000 - acesse http://localhost:3000 
 
-**Note:** Em db > conn.js > `YOUR_DB_CONNECTION_STRING` will be your MongoDB connection string.
+*OBS.: Em db > conn.js > `YOUR_DB_CONNECTION_STRING` will be your MongoDB connection string.
 
 ```
 ---
