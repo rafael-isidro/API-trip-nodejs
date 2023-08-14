@@ -11,14 +11,14 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre o projeto]
-   * [Funcionalidades]
-   * [Como executar o projeto]
-     * [Pré-requisitos]
-     * [Rodando o Projeto]
-   * [Tecnologias]
-   * [Estrutura do Projeto]
-   * [Autor]
+   * [Sobre o projeto](#-sobre-o-projeto)
+   * [Funcionalidades](#%EF%B8%8F-funcionalidades)
+   * [Como executar o projeto](#%EF%B8%8F-como-executar-o-projeto)
+     * [Pré-requisitos](#pré-requisitos)
+     * [Rodando o Projeto](#rodando-o-projeto)
+   * [Tecnologias](#-tecnologias)
+   * [Estrutura do Projeto](#-estrutura-do-projeto)
+   * [Autor](#-autor)
 <!--te-->
 
 
