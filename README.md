@@ -128,7 +128,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/rafael-isidro">
     <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/118776145?v=4" width="100px;" alt="Foto de perfil - Rafael Isidro"/>
     <br />
-    <sub><b>Rafael Isidro</b></sub
+    <sub><b>Rafael Isidro</b></sub>
 </a> 
 <a href="https://github.com/rafael-isidro" title="Github">🚀</a>
 
