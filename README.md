@@ -25,8 +25,6 @@ Tabela de conteúdos
 ## 💻 Sobre o projeto
 
 O projeto API Trip foi desenvolvido dispondo das operações de Criar, Listar, Alterar e Excluir dados de viagens e serviços (operações CRUD), validando o valor total de serviços incluídos em determinada viagem com o orçamento disponível, permitindo que o usuário planeje viagens de acordo com o seu orçamento. O projeto possui uma estrutura simples e conexão ao banco de dados MongoDB Atlas utilizando o Mongoose.
-
-
 Projeto desenvolvido para estudos.
 ---
 
