@@ -121,7 +121,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     ├── router.js
     ├── services.js
     └── trips.js
-
+```
 ---
 ## 🦸 Autor
 
